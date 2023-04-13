@@ -1001,7 +1001,7 @@ color: #4D5AE5;
     (min-resolution: 192dpi),
     (min-resolution: 2dppx) {
    .solution{
-      background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(/images/bg-img-mob-2x.jpg);
+      background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/bg-img-mob-2x.jpg);
    }
   }
 }
@@ -1014,13 +1014,13 @@ color: #4D5AE5;
         width:736px;
     }
     .solution{
-        background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(/images/tablet-1x.jpg);
+        background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/tablet-1x.jpg);
      }
      @media (min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
   (min-resolution: 2dppx) {
  .solution{
-    background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(/images/tablet-2x.jpg);
+    background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/tablet-2x.jpg);
  }
 }
     .header-list{
@@ -1108,13 +1108,13 @@ color: #4D5AE5;
         padding-bottom: 120px;
     }
     .solution{
-        background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(/images/bg-img.jpg);
+        background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/bg-img.jpg);
      }
      @media (min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
   (min-resolution: 2dppx) {
  .solution{
-    background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(/images/people-office-2x.jpg);
+    background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/people-office-2x.jpg);
  }
 }
     .address-list{
