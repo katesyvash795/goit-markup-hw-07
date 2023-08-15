@@ -798,6 +798,9 @@ position: relative;
 width: 360px;
 overflow: hidden;
 }
+.filter-list{
+    flex-direction: column;
+}
 
 /**___modal___**/
 .backdrop{
@@ -986,6 +989,9 @@ letter-spacing: 0.04em;
 text-decoration-line: underline;
 color: #4D5AE5;
 }
+.portfolio-list{
+    justify-content: center;
+}
 /**____Media___**/
 
 /**mob**/
@@ -1023,6 +1029,9 @@ color: #4D5AE5;
  .solution{
     background-image:linear-gradient( rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/tablet-2x.jpg);
  }
+}
+.filter-list{
+    flex-direction: row;
 }
 .header-container{
     padding-bottom: 10px;
